@@ -51,12 +51,12 @@ $config = array(
 	 */
 
 
-	"asset_mirror" => "bucket.giftzsix.tk",
+	"asset_mirror" => "bucket.dailyxgifts.gq",
 	/*
 	 * No Longer used
 	 */
 
-    "server_domain" => "mirrors.giftzsix.tk",
+    "server_domain" => "mirrors.dailyxgifts.gq",
     /*
      * The retrieve URL for requests. Don't edit this.
      */
