@@ -51,12 +51,12 @@ $config = array(
 	 */
 
 
-	"asset_mirror" => "bucket.cpabuild.com",
+	"asset_mirror" => "bucket.giftzsix.tk",
 	/*
 	 * No Longer used
 	 */
 
-    "server_domain" => "mirrors.cpabuild.com",
+    "server_domain" => "mirrors.giftzsix.tk",
     /*
      * The retrieve URL for requests. Don't edit this.
      */
